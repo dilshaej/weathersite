@@ -1,0 +1,26 @@
+body{
+    background-image: url(https://miro.medium.com/v2/resize:fit:5120/1*GsImz-edoeuqCMfKxDus0w.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+	
+	background-attachment: fixed;
+    
+}
+.div1{
+background-color: rgba(0, 0, 0, 0.459);
+
+height: 500px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+border-radius: 30px 0px 0px 30px;
+}
+.div2{
+    background-color: grey;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 0px 30px 30px 0px;
+}
+.he1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
